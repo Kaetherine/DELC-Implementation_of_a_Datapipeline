@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EMAIL="kuhle.katherine@gmail.com"
+EMAIL="my.email@example.com"
 
 # main file to be executed
 SCRIPT="/home/ubuntu/Bachelorarbeit/main.py"
